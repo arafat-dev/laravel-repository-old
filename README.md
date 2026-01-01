@@ -1,18 +1,18 @@
 <p>
-<a href="https://packagist.org/packages/arafatdev/laravel-repository">
-    <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/arafatdev/laravel-repository">
+<a href="https://packagist.org/packages/arafat69/laravel-repository">
+    <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/arafat69/laravel-repository">
 </a>
-<a href="https://github.com/arafatdev/laravel-repository/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/arafatdev/laravel-repository">
+<a href="https://github.com/arafat69/laravel-repository/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/arafat69/laravel-repository">
 </a>
-<a href="https://packagist.org/packages/arafatdev/laravel-repository">
-    <img src="https://img.shields.io/packagist/dt/arafatdev/laravel-repository" alt="Total Downloads">
+<a href="https://packagist.org/packages/arafat69/laravel-repository">
+    <img src="https://img.shields.io/packagist/dt/arafat69/laravel-repository" alt="Total Downloads">
 </a>
-<a href="https://packagist.org/packages/arafatdev/laravel-repository">
-    <img src="https://img.shields.io/packagist/v/arafatdev/laravel-repository" alt="Latest Stable Version">
+<a href="https://packagist.org/packages/arafat69/laravel-repository">
+    <img src="https://img.shields.io/packagist/v/arafat69/laravel-repository" alt="Latest Stable Version">
 </a>
-<a href="https://packagist.org/packages/arafatdev/laravel-repository">
-    <img src="https://img.shields.io/packagist/l/arafatdev/laravel-repository" alt="License">
+<a href="https://packagist.org/packages/arafat69/laravel-repository">
+    <img src="https://img.shields.io/packagist/l/arafat69/laravel-repository" alt="License">
 </a>
 </p>
 

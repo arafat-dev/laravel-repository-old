@@ -1,5 +1,5 @@
 {
-    "name": "arafatdev/laravel-repository",
+    "name": "arafat69/laravel-repository",
     "description": "Laravel Repository Pattern package with built-in Artisan commands. Easily create repositories, follow clean architecture, and simplify database interactions.",
     "keywords": [
         "laravel",
@@ -18,7 +18,7 @@
         "service repository pattern",
         "php repository pattern"
     ],
-    "homepage": "https://github.com/arafat-dev/laravel-repository",
+    "homepage": "https://github.com/arafat-dev/laravel-repository-old",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -37,10 +37,7 @@
         "illuminate/console": ">=7.0"
     },
     "suggest": {
-      "arafatdev/laravel-repository": "Alternative repository implementation or legacy package name"
-    },
-    "replace": {
-      "arafat69/laravel-repository": "self.version"
+      "arafatdev/laravel-repository": "Alternative or legacy repository package"
     },
     "extra": {
         "laravel": {
@@ -51,5 +48,7 @@
                 "Repository": "Arafat\\LaravelRepository\\RepositoryFacade"
             }
         }
-    }
+    },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }

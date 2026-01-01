@@ -38,7 +38,7 @@ Fully compatible with Laravel 7+.
 ## Installation
 
 ```bash
-composer require arafatdev/laravel-repository
+composer require arafat69/laravel-repository
 ```
 
 After installation, the package automatically creates the app/Repositories directory to organize your repository classes.
